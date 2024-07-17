@@ -5,7 +5,7 @@ import colorama
 #---------------------DO-NOT-TOUCH!--------------------------------------------------------------------------------------------
 def Function1():
 timer = 0
-while timer < 3:
+while timer < 300:
     time.sleep(1)
     webbrowser.open("https://www.youtube.com/watch?v=L12jpIozyTk")
     timer = timer + 1
